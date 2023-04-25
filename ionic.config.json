@@ -1,0 +1,7 @@
+{
+  "name": "icono-prueba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
